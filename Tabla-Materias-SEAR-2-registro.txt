@@ -1,0 +1,15 @@
+INSERT INTO `materias` VALUES ('ME1231', 'Español', 'Comprensión de letras y sonidos');
+INSERT INTO `materias` VALUES ('MM123', 'Matemáticas1', 'Conocimiento de los numeros');
+INSERT INTO `materias` VALUES ('MC123', 'Creatividad', 'Desarrollo de creatividad');
+INSERT INTO `materias` VALUES ('MG123', 'Geografia', 'Estudio del mundo');
+INSERT INTO `materias` VALUES ('MH123', 'Historia', 'Historia');
+INSERT INTO `materias` VALUES ('MH001', 'Historia', 'Conocimiento de fechas especiales de la');
+INSERT INTO `materias` VALUES ('ME002', 'Espa', 'Conocimiento de letras y palabras');
+INSERT INTO `materias` VALUES ('MM003', 'Matematicas', 'Conocimiento de los numeros');
+INSERT INTO `materias` VALUES ('MEA004', 'Educacion Artistica', 'Desarrollo de creatividad');
+INSERT INTO `materias` VALUES ('MEF005', 'Educacion Fisica', 'Desarrollo de capacidades coorporales');
+INSERT INTO `materias` VALUES ('MCN006', 'Ciencias Naturales', 'Conocimiento de la naturaleza');
+INSERT INTO `materias` VALUES ('MD007', 'Dibujo', 'Expresion de ambiente');
+INSERT INTO `materias` VALUES ('MG008', 'Geografia', 'Conocimiento del mundo');
+INSERT INTO `materias` VALUES ('MMU009', 'Musica', 'Conocimiento de sonidos y notas musicale');
+INSERT INTO `materias` VALUES ('MI010', 'Ingles', 'Conocimiento de palabras en ingles');
